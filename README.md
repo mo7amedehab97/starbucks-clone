@@ -20,7 +20,7 @@
 
 - HTML → To build the structure of the page.
 - CSS → To style the application.
-- NPM → To install packages to my inviroment 
+- JS → To Create the side navbar in mobile screen
 
 
 
